@@ -39,8 +39,8 @@ Version: 1.1
 }
 /* Fonts */
 :root {
-    --body-font           : "Raleway", sans-serif;
-    --heading-font        : "Prata", Georgia, serif;
+    --body-font           : "Noto Sans Mono", monospace;
+    --heading-font        : "Josefin Sans", Georgia, serif;
     --secondary-font      : "Playfair Display", Georgia, serif;
 }
 
